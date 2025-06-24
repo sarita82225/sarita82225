@@ -1,16 +1,31 @@
-## Hi there 👋
+About Me
 
-<!--
-**sarita82225/sarita82225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I am Sarita Bhardwaj, a passionate full-stack developer resident in Italy. I'm currently working on innovative projects that blend web development with cutting-edge AI tools  Gemini.
 
-Here are some ideas to get you started:
+💭 Currently Exploring:
+Generative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 LangChain agents & tools
+
+🛠️ Scalable MERN stack architecture
+
+💼 Real-world SaaS development workflows
+
+💻 Tech Stack
+  JavaScript Angular2+
+
+HTML5 TailwindCSS
+
+React NodeJS Express.js
+Nodemon
+
+JWT Vite
+MongoDB
+
+ Gemini Git GitHub
+
+📊 GitHub Stats
+
+📬 Let's Connect
+
+
