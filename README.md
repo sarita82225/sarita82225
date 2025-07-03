@@ -3,7 +3,7 @@
 
 ###
 
-<h4 align="left">My name is Sarita Bhardwaj and I'm a passionate frontend engineer  from India living in Italy</h4>
+<h4 align="left">My name is Sarita Bhardwaj and I'm from India living in Italy</h4>
 
 ###
 
@@ -109,6 +109,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="24" height="15" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="24" height="15" alt="linkedin logo"  />
 </div>
+
 
 ###
 
